@@ -43,8 +43,6 @@
   <h2>Dependencies:</h2>
   <p><a href="https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library">LCD_I2C</a> library</p>
 
-  <p>Feel free to modify the code and adapt it to your specific requirements. Happy detecting!</p>
-
 </body>
 
 </html>
