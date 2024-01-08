@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Obstacle Detector and Distance Measurement System</title>
-</head>
-
 <body>
 
   <h1>Obstacle Detector and Distance Measurement System</h1>
